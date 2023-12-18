@@ -1,0 +1,1 @@
+# dotnet8-azure-function-ready2run
